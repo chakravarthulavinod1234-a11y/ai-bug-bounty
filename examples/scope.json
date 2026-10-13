@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "host": "127.0.0.1",
+      "schemes": ["http"],
+      "ports": [3000],
+      "paths": ["/"],
+      "excluded_paths": ["/admin"]
+    }
+  ],
+  "active_testing": false,
+  "request_timeout_seconds": 10.0,
+  "requests_per_second": 1.0
+}
